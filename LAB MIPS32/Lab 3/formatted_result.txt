@@ -1,0 +1,6 @@
+----Student personal information----
+Name: Pham Anh Tai
+ID: 2350023
+Address: 19 Le Thanh Ton Thanh Binh Ward Bien Hoa City Dong Nai Province
+Age: 19
+Religion: No no no
